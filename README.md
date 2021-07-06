@@ -4,7 +4,7 @@
 ## 💻 Projeto
 <p>Projeto do módulo de javascript avançado do treinamento Hiring Coders.</p> 
 Simulando uma base de dados(JSON) com javascript ,rodando o projeto no terminal utilizando o realine-sync para pegar o input do usuário. 
-<p>A categoria de livro que escolhi foi a Fantasia e você pode pesquisar por autores</p>
+<p>A categoria escolhida de livros foi Fantasia e você pode pesquisar por autores</p>
 
 ## 🛠 Tecnologias
 - Javascript
